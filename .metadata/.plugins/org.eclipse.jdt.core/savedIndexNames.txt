@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+/media/melchior/Backup/Desenvolvimento/Cursos/Curso-Spring-Boot-Parte-2-Segurança-da-API-Cache-e-Monitoramento/.metadata/.plugins/org.eclipse.jdt.core
+70344592.index
